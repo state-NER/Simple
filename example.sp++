@@ -1,0 +1,10 @@
+Simple+en(website/simple site)$
+(Top Bar#Color:#443.(Menu #ID=Menu))
+    (Item#Text:"Home"#Link:"/home")
+    (Item#Text:"About"#Link:"/about")
+    (Item#Text:"Contact"#Link:"/contact")
+(Main Content#Color:#FFF)
+    (Header#Text:"Welcome to Simple++")
+    (Paragraph#Text:"This is a simple website created using Simple++ language.")
+(Footer#Color:#443)
+    (Text#Text:"© 2025 Simple++. All rights reserved.")
